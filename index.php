@@ -1,5 +1,5 @@
 <?php
-  require_once("mng/mng.php");
+  require_once("class.php");
   $mng = new mng();  
   $params=array();
   $params['pKullaniciAdi']='XXXXXX';
